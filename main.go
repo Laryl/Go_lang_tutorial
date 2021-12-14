@@ -1,9 +1,10 @@
 package main
 
-import "fmt"
-import "trail"
+import (
+	"fmt"
+)
+
 func main() {
 	fmt.Println("hello world")
+	trail.
 }
-
-Trial.trial()

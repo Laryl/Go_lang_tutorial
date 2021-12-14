@@ -2,10 +2,10 @@ package trail
 
 import "fmt"
 
-func trail() {
+func Trail() {
 	fmt.Println("hello world")
 }
 
-type Treail interface {
-	trail()
+type Trial interface {
+	Trail()
 }
