@@ -6,6 +6,6 @@ func Trail() {
 	fmt.Println("hello world")
 }
 
-type Trial interface {
-	Trail()
-}
+// type Trial interface {
+// 	Trail()
+// }
